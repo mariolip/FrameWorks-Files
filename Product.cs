@@ -1,4 +1,4 @@
-﻿namespace MyRootLib;
+﻿namespace MyProductLib;
     public class Root
     {
         /// <summary>
