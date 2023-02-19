@@ -5,7 +5,7 @@
         /// this method calculates the root
         /// </summary>
         /// <param name="number"></param>
-        /// <returns></returns>
+        /// <returns></returns> 
         public static double MyProduct(double number1, double number2) {
             double product;
             product = (number1 * number2);
