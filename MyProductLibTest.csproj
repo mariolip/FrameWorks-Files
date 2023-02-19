@@ -21,7 +21,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyRootLib\MyRootLib.csproj" />
+    <ProjectReference Include="..\MyProductLib\MyProductLib.csproj" />
   </ItemGroup>
 
 </Project>
